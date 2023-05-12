@@ -5,22 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="028a939c-13dc-42d2-90ee-3086c5856c5d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Books/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Books/Books.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Books/src/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Books/src/BookConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Objects in Lists Practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TV SHOWS/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TV SHOWS/TV SHOWS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TV SHOWS/src/Show.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TV SHOWS/src/TvShow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Books/Counter/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Books/Counter/Counter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Books/Counter/src/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Books/Counter/src/Numbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +47,8 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "onboarding.tips.debug.path": "C:/Users/nashw/IdeaProjects/Objects in Lists Practice/TV SHOWS/Books/src/Main.java",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/nashw/IdeaProjects/Objects in Lists Practice/Books/Counter/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -69,7 +60,7 @@
       <recent name="C:\Users\nashw\IdeaProjects\Objects in Lists Practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Book">
+  <component name="RunManager" selected="Application.Counter">
     <configuration name="Animal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Animal" />
       <module name="Objects in Lists Practice" />
@@ -84,6 +75,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Counter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Counter" />
+      <module name="Counter" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TvShow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TvShow" />
       <module name="TV SHOWS" />
@@ -93,6 +91,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Counter" />
         <item itemvalue="Application.Book" />
         <item itemvalue="Application.TvShow" />
         <item itemvalue="Application.Animal" />
@@ -107,7 +106,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683909593795</updated>
-      <workItem from="1683909594858" duration="7447000" />
+      <workItem from="1683909594858" duration="12755000" />
     </task>
     <servers />
   </component>
